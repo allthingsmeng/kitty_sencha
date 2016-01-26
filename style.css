@@ -62,6 +62,7 @@
     height: 588px;
     width: 320px;
     position: relative;
+    margin:auto;
 }
 
 #kitty-an-anim * {
